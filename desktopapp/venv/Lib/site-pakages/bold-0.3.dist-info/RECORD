@@ -1,0 +1,16 @@
+../../Scripts/bold.exe,sha256=kvVmOAoBlmmHGz5heZtltbfxb25iBzzznGFOcdkjVlI,106356
+bold-0.3.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+bold-0.3.dist-info/METADATA,sha256=g_jCUSx47ykwSxCfaHiknnHfYd3-cCCMpWneBbCcKFg,622
+bold-0.3.dist-info/RECORD,,
+bold-0.3.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+bold-0.3.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+bold-0.3.dist-info/entry_points.txt,sha256=0Yz6_4VtcI8lBXJh7-wYQCkKlB1GUbBoxDBL40Uhrrc,41
+bold-0.3.dist-info/top_level.txt,sha256=sQS4XyiHSgq2HerlQt0lC1ezy-xYgfHqnpjYT10jZDk,5
+bold/__init__.py,sha256=iiqxpiz3uvEIAGuVBSzzasNfLTxvne5lYgux8E-ElkU,4490
+bold/__pycache__/__init__.cpython-39.pyc,,
+bold/__pycache__/builders.cpython-39.pyc,,
+bold/__pycache__/util.cpython-39.pyc,,
+bold/builders.py,sha256=UMpMuuTjD489u8S1vheEUW2EjeyW3hePSULztKu-Ank,6240
+bold/tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+bold/tests/__pycache__/__init__.cpython-39.pyc,,
+bold/util.py,sha256=PDIaFL-3TxdAqQh8lxJSiWE4aQihgK7HhkDPjieOdVA,2062
