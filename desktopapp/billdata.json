@@ -1,0 +1,550 @@
+[
+    {
+        "invoice number": 1,
+        "cn": "radhesyam",
+        "street": "customer_street",
+        "city": "customer_city",
+        "state": "customer_state-pin",
+        "purchased": []
+    },
+    {
+        "invoice number": 2,
+        "cn": "bheemla nayak",
+        "street": "customer_street",
+        "city": "customer_city",
+        "state": "customer_state-pin",
+        "purchased": []
+    },
+    {
+        "invoice number": 3,
+        "cn": "djtilli",
+        "street": "customer_street",
+        "city": "customer_city",
+        "state": "customer_state-pin",
+        "purchased": [
+            [
+                1,
+                "cycas",
+                "15x15",
+                "100",
+                "150",
+                15000
+            ]
+        ]
+    },
+    {
+        "invoice number": 4,
+        "cn": "murthy",
+        "street": "4-7,schoolstreet",
+        "city": "kadiam mandal",
+        "state": "east Godavari District-533126",
+        "purchased": [
+            [
+                "S.NO",
+                "Name of plant",
+                "size of plant",
+                "quantity",
+                "price per item",
+                "Amount"
+            ],
+            [
+                1,
+                "cycas",
+                "18x18",
+                "120",
+                "300",
+                36000
+            ]
+        ]
+    },
+    {
+        "invoice number": 5,
+        "cn": "K Ramana",
+        "street": "school street",
+        "city": "kadiam",
+        "state": "EGDT",
+        "purchased": [
+            [
+                "S.NO",
+                "Name of plant",
+                "size of plant",
+                "quantity",
+                "price per item",
+                "Amount"
+            ],
+            [
+                1,
+                "Terminelia",
+                "30x30",
+                "25",
+                "15000",
+                375000
+            ]
+        ]
+    },
+    {
+        "invoice number": 6,
+        "cn": "K.Venkateswara Rao",
+        "street": "schol street",
+        "city": "kadiam",
+        "state": "EGDT",
+        "purchased": [
+            [
+                "S.NO",
+                "Name of plant",
+                "size of plant",
+                "quantity",
+                "price per item",
+                "Amount"
+            ],
+            [
+                1,
+                "Terminelia",
+                "25x25",
+                "30",
+                "6000",
+                180000
+            ]
+        ]
+    },
+    {
+        "invoice number": 7,
+        "cn": "vasavi",
+        "street": "street",
+        "city": "konthamuru",
+        "state": "EGDT-533126",
+        "purchased": [
+            [
+                "S.NO",
+                "Name of plant",
+                "size of plant",
+                "quantity",
+                "price per item",
+                "Amount"
+            ],
+            [
+                1,
+                "mango",
+                "8x9",
+                "300",
+                "50",
+                15000
+            ],
+            [
+                2,
+                "Terminelia",
+                "25x25",
+                "2",
+                "9000",
+                18000
+            ],
+            [
+                3,
+                "kalapati sapota",
+                "13x13",
+                "30",
+                "150",
+                4500
+            ]
+        ]
+    },
+    {
+        "invoice number": 8,
+        "cn": "mani",
+        "street": "hi",
+        "city": "k",
+        "state": "k",
+        "purchased": [
+            [
+                "S.NO",
+                "Name of plant",
+                "Size of plant",
+                "Quantity",
+                "Price per item",
+                "Amount"
+            ],
+            [
+                1,
+                "mango",
+                "21x21",
+                "10",
+                "10",
+                100
+            ],
+            [
+                2,
+                "kalapati sapota",
+                "13x13",
+                "20",
+                "10",
+                200
+            ],
+            [
+                3,
+                "Terminelia",
+                "8x9",
+                "12",
+                "5000",
+                60000
+            ]
+        ]
+    },
+    {
+        "invoice number": 9,
+        "cn": "nivas",
+        "street": "gh",
+        "city": "h",
+        "state": "h",
+        "purchased": [
+            [
+                "S.NO",
+                "Name of plant",
+                "Size of plant",
+                "Quantity",
+                "Price per item",
+                "Amount"
+            ],
+            [
+                1,
+                "man",
+                "13x13",
+                "25",
+                "10",
+                250
+            ],
+            [
+                2,
+                "Terminelia",
+                "21x21",
+                "12",
+                "2000",
+                24000
+            ]
+        ]
+    },
+    {
+        "invoice number": 10,
+        "cn": "hemanth",
+        "street": "aa",
+        "city": "312",
+        "state": "vij",
+        "purchased": [
+            [
+                "S.NO",
+                "Name of plant",
+                "Size of plant",
+                "Quantity",
+                "Price per item",
+                "Amount"
+            ],
+            [
+                1,
+                "mahagani",
+                "21x21",
+                "1",
+                "6020",
+                6020
+            ]
+        ]
+    },
+    {
+        "invoice number": 11,
+        "cn": "s,venkatesh",
+        "street": "burrilanka",
+        "city": "kadiyam mandal",
+        "state": "east godavri",
+        "purchased": [
+            [
+                "S.NO",
+                "Name of plant",
+                "Size of plant",
+                "Quantity",
+                "Price per item",
+                "Amount"
+            ],
+            [
+                1,
+                "mahagani",
+                "13x13 ",
+                "500",
+                "50",
+                25000
+            ],
+            [
+                2,
+                "cherukurasam",
+                "13x13",
+                "50",
+                "200",
+                10000
+            ]
+        ]
+    },
+    {
+        "invoice number": 12,
+        "cn": "sairam",
+        "street": "kadiapulanka",
+        "city": "kadiam mandal",
+        "state": "533126",
+        "purchased": [
+            [
+                "S.NO",
+                "Name of plant",
+                "Size of plant",
+                "Quantity",
+                "Price per item",
+                "Amount"
+            ],
+            [
+                1,
+                "cherukurasam",
+                "13x13",
+                "200",
+                "150",
+                30000
+            ],
+            [
+                2,
+                "neelam",
+                "13x13",
+                "200",
+                "150",
+                30000
+            ],
+            [
+                3,
+                "punasa",
+                "25x25",
+                "10",
+                "500",
+                5000
+            ],
+            [
+                4,
+                "mahagani",
+                "21x21",
+                "200",
+                "400",
+                80000
+            ],
+            [
+                5,
+                "kesari",
+                "8x9",
+                "1000",
+                "100",
+                100000
+            ]
+        ]
+    },
+    {
+        "invoice number": 13,
+        "cn": "",
+        "street": "",
+        "city": "",
+        "state": "",
+        "purchased": [
+            [
+                "S.NO",
+                "Name of plant",
+                "Size of plant",
+                "Quantity",
+                "Price per item",
+                "Amount"
+            ],
+            [
+                1,
+                "Bogada",
+                "25x25",
+                "6",
+                "1450",
+                8700
+            ],
+            [
+                2,
+                "conocarpus",
+                "25x25",
+                "5",
+                "650",
+                3250
+            ],
+            [
+                3,
+                "Usiri",
+                "25x25",
+                "4",
+                "700",
+                2800
+            ],
+            [
+                4,
+                "dismodium gold",
+                "25x25",
+                "4",
+                "950",
+                3800
+            ],
+            [
+                5,
+                "cassia fistula",
+                "25x25",
+                "2",
+                "1200",
+                2400
+            ],
+            [
+                6,
+                "mango",
+                "25x25",
+                "2",
+                "1650",
+                3300
+            ],
+            [
+                7,
+                "water apple red",
+                "25x25",
+                "1",
+                "750",
+                750
+            ],
+            [
+                8,
+                "water apple white",
+                "25x2511",
+                "1",
+                "750",
+                750
+            ],
+            [
+                9,
+                "star fruit",
+                "25x25",
+                "1",
+                "650",
+                650
+            ],
+            [
+                10,
+                "white neradu",
+                "25x25",
+                "1",
+                "750",
+                750
+            ],
+            [
+                11,
+                "alla neradu",
+                "25x25",
+                "1",
+                "1200",
+                1200
+            ]
+        ]
+    },
+    {
+        "invoice number": 14,
+        "cn": "RAMA KRISHNA GARU",
+        "street": "Panduranga swami temple",
+        "city": "machalipatnam,Andhra Pradesh",
+        "state": "521001",
+        "purchased": [
+            [
+                "S.NO",
+                "Name of plant",
+                "Size of plant",
+                "Quantity",
+                "Price per item",
+                "Amount"
+            ],
+            [
+                1,
+                "Bogada",
+                "25x25",
+                "6",
+                "1450",
+                8700
+            ],
+            [
+                2,
+                "conocorpus",
+                "25x25",
+                "5",
+                "950",
+                4750
+            ],
+            [
+                3,
+                "Usiri",
+                "25x25",
+                "4",
+                "700",
+                2800
+            ],
+            [
+                4,
+                "Dismodium Gold",
+                "25x25",
+                "4",
+                "950",
+                3800
+            ],
+            [
+                5,
+                "Cassia Fistula",
+                "25x25",
+                "2",
+                "1200",
+                2400
+            ],
+            [
+                6,
+                "Mango",
+                "25x25",
+                "2",
+                "1650",
+                3300
+            ],
+            [
+                7,
+                "Water apple Red",
+                "25x25",
+                "1",
+                "750",
+                750
+            ],
+            [
+                8,
+                "Water apple white",
+                "25x25",
+                "1",
+                "750",
+                750
+            ],
+            [
+                9,
+                "Star Fruit",
+                "25x25",
+                "1",
+                "750",
+                750
+            ],
+            [
+                10,
+                "White Neredu",
+                "21x21",
+                "1",
+                "750",
+                750
+            ],
+            [
+                11,
+                "Alla neredu",
+                "25x25",
+                "1",
+                "1200",
+                1200
+            ]
+        ]
+    }
+]
